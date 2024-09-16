@@ -2,3 +2,4 @@ Hello
 from local main to feature branch
 from local feature to feature branch
 Another line
+Added this line from working directory
