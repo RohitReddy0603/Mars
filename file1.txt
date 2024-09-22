@@ -4,3 +4,4 @@ from local feature to feature branch
 Another line
 Added this line from github
 Added this line from working directory
+Add a new line from branch 1
